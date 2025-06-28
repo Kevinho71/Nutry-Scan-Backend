@@ -1,0 +1,19 @@
+# Entorno virtual
+.venv/
+env/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pyc
+
+# Archivos sensibles
+.env
+
+# Logs
+*.log
